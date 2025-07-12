@@ -49,7 +49,7 @@ npm run dev
 
 ## Login Details
 - AdminLogin
-    - muhammaddanish14@gmail.com
+    - navaneethshenoy96@gmail.com
     - Password: 123456789
 - Login
     - ahad@gmail.com
